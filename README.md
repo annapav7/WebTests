@@ -1,2 +1,2 @@
 # WebTests
-Jave/Maven/TetsNG
+Java/Maven/TetsNG
